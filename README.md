@@ -1,3 +1,3 @@
 # horse-racing-prediction-model
 
-Dataset taken from Kaggle
+Dataset taken from Kaggle, Hong Kong:
